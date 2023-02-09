@@ -1,0 +1,15 @@
+id: A0B4ACAAC
+title: 'MSV 7,00: Conclusion'
+type: translation
+pechas:
+- IF70CF70C
+- IF80BE40E
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:19:50.750541
+  last_modified_at: 2023-02-10 00:19:50.750553
+alignment_to_base:
+  IF70CF70C/CC47: '7347'
+  IF80BE40E/38DB: '7347'

@@ -1,0 +1,33 @@
+segment_sources:
+  IF70CF70C:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: CC47
+  IF80BE40E:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: 38DB
+segment_pairs:
+  6dfce7410ce445c78759386e2fb064f7:
+    IF70CF70C: 67a49896bfb94fe88e4c7f20d7460d96
+    IF80BE40E: 240cae657b0848d88d19ae06c3623407
+  ce87c718626647a2a0ba62cd41435234:
+    IF70CF70C: 441cefa9ec424b1e817a747daed42d02
+    IF80BE40E: f01dfb03eb8b40cf8bee57273dcbbb25
+  b9c4b681ff0c422898fa2e9aef77e5b4:
+    IF70CF70C: 81dec4ea061e46409de8a6a84ed91a37
+    IF80BE40E: 73ea7f1d349e4c0782ebc88e826478dc
+  4e94933ab6c34e49a7e89bc4bce52b3d:
+    IF70CF70C: 9785b1e1915f455da5d684979191280d
+    IF80BE40E: bdbdddd78cea4c8bbd9d99d45fdc27a1
+  481d4996b7aa44b4962a5f1345b0c1b9:
+    IF70CF70C: dc1bb4bdc91f4fa2badf50369d2d927a
+    IF80BE40E: 87a5b29cdb394b7dac985f881e113408
+  6391b920c69148d29e1e1d8742e7ab9c:
+    IF70CF70C: 72b32809493e4130bbbc71a9031c4b3a
+    IF80BE40E: 2915b2499def4c238366d9f51a9fd889
+  d0253d301d87410690aa8886515def60:
+    IF70CF70C: 6de13acf9aeb404d8ed699c573d1f8a4
+    IF80BE40E: 13dad3f5375342d391b6a511aaa63647
